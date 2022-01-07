@@ -15,7 +15,7 @@ ReactDOM.render(
         <Box position={[0, 1.5, -0.2]} />
         <Text
             onClick={() => window.open("https://sanjul.net")}
-            font='https://fonts.gstatic.com/s/cookie/v8/syky-y18lb0tSbf9kgqU.woff'
+            font='https://fonts.gstatic.com/s/hennypenny/v5/wXKvE3UZookzsxz_kjGSfPQtvXQ.woff'
             scale={[20, 20, 20]}
             color="red" // default
             anchorX="center" // default
