@@ -24,7 +24,7 @@ export default function Box(props) {
             <boxBufferGeometry attach="geometry" args={[1, 1, 1]} />
             <meshStandardMaterial
                 attach="material"
-                color={hovered ? 'hotpink' : 'orange'}
+                color={hovered ? 'hotpink' : 'blue'}
             />
         </mesh>
     );
